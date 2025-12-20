@@ -7,8 +7,8 @@ Este repositorio contiene el código y los datos asociados al proyecto de invest
 El proyecto combina técnicas de **Functional Data Analysis (FDA)** y **geoestadística de redes**:
 
 - **Descomposición de Karhunen–Loève (KL)** para reconstruir curvas funcionales a partir de observaciones dispersas.
-- **Distancia de Mahalanobis funcional** para medir desviaciones multivariadas en los scores de ICA.
-- **Cartas de control T² y Q** para monitoreo estadístico funcional con correlación espacial.
+- **Estructura de correlación espacial para redes fluviales
+- **Monitoreo estadístico funcional con correlación espacial.
 - **Kriging funcional sobre la red hidrográfica** para predicciones espaciotemporales, considerando la topología del río y la conectividad entre afluentes.
 
 ## Estructura del repositorio
